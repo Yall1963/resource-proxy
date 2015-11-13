@@ -40,7 +40,7 @@ java.text.SimpleDateFormat" %>
 *
 ----------------------------------------------------------- -->
 
-<%! final String version = "1.1.0";   %>
+<%! final String version = "1.1.1beta";   %>
 
 <%!
     public static final class DataValidUtil {
