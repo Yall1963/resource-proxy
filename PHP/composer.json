@@ -1,22 +1,8 @@
 {
-    "name": "resource-proxy",
+    "name": "inovolabs/resource-proxy",
     "description": "Acts as proxy to circumvent the browsers same origin policy",
-    "keywords": ["proxy", "rest"],
     "homepage": "https://github.com/Yall1963/resource-proxy",
-    "type": "library",
-    "license": "Apache 2.0",
-    "authors": [
-        {
-            "name": "Yall1963",
-            "role": "Developer"
-        }
-    ],
     "require": {
         "php": ">=5.4.2"
-    },
-    "autoload": {
-        "classmap": [
-            "."
-        ]
     }
 }
